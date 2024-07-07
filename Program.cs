@@ -35,6 +35,7 @@ app.MapPost("/hotels", async ([FromBody] Hotel hotel, HotelDb db, HttpResponse r
 
 });
 
+
 app.MapPut("/hotels", async ([FromBody] Hotel hotel, HotelDb db) =>
 {
     var hotelFromDb = await db.Hotels.FindAsync(new object[] { hotel.Id });

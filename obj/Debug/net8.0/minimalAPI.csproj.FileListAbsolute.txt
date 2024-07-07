@@ -54,3 +54,4 @@
 /home/essence/code/c#PetProjects/minimalAPI/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /home/essence/code/c#PetProjects/minimalAPI/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /home/essence/code/c#PetProjects/minimalAPI/obj/Debug/net8.0/minimalAPI.csproj.Up2Date
+/home/essence/code/c#PetProjects/minimalAPI/obj/Debug/net8.0/minimalAPI.sourcelink.json
